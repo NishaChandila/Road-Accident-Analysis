@@ -5,11 +5,9 @@ This report presents a comprehensive analysis of road accidents using data store
 
 The findings from this report are intended to support policymakers, law enforcement, and road safety organizations in their efforts to enhance road safety through data-driven strategies.
 
-Dataset Link - [Road Accident](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
-
-Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
-
-Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
+- Road Accident [Dataset](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
+- Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
+- Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
 
 ## Dataset  
 The dataset used for the analysis contains the following columns, each providing important information about the road accidents:
@@ -40,7 +38,7 @@ The dataset used for the analysis contains the following columns, each providing
 
 These columns offer a comprehensive view of the circumstances surrounding road accidents, enabling in-depth analysis to uncover trends and patterns.
 
-Dataset Link - [Road Accident](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
+- Road Accident [Dataset](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
 
 ## Excel Analysis  
 In this analysis, the **Excel Data Analysis Sheet** has been used to perform a detailed review of the road accidents. The following key points have been analyzed in the Excel report:
@@ -67,11 +65,9 @@ The following insights were drawn from the analysis:
 4. **Daylight Accidents Are Predominant**: While accidents occur across various light conditions, the majority occur in daylight, indicating the importance of addressing driver behavior and other contributing factors beyond visibility.
 5. **Impact of Road Surface Conditions**: Further analysis is needed to understand how road surface conditions (e.g., wet or icy roads) impact the frequency of accidents.
 
-Dataset Link - [Road Accident](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
-
-Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
-
-Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
+- Road Accident [Dataset](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
+- Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
+- Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
 
 ## Recommendations  
 Based on the findings of the report, the following recommendations are made to improve road safety:
@@ -97,8 +93,6 @@ Based on the findings of the report, the following recommendations are made to i
 ## Conclusion  
 This report highlights the complex nature of road accidents and the multiple factors contributing to their occurrence. By addressing issues related to vehicle safety, road infrastructure, and driver education, significant improvements can be made in reducing the number of accidents and casualties. Policymakers and road safety organizations must prioritize data-driven approaches to enhance road safety and ultimately save lives.
 
-Dataset Link - [Road Accident](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
-
-Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
-
-Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
+- Road Accident [Dataset](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/Road%20Accident%20Data.xlsx)
+- Road Accident [Data-Analysis](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20DataAnalysis.jpg)
+- Road Accident [Report](https://github.com/NishaChandila/Road-Accident-Analysis/blob/main/RoadAccident%20Report.jpg)
